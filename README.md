@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ErickGichuki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: gichukierick2@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love traveling and exploring.
+## Erick Gichuki
+### I'm a Software Developer with a good experience in tech using various programming languages.
+### - python
+### - Js
+### - React
+### - Flask
+
 ### Motivation
 <img src='img/motivation.png'>
 
