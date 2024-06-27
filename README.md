@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love traveling and exploring.
 ### Motivation
-![Uploading image.png…]()
+<img src='img/motivation.png'>
 
 <!---
 ErickGichuki/ErickGichuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
