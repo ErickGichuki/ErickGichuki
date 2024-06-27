@@ -5,6 +5,8 @@
 - 📫 How to reach me: gichukierick2@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love traveling and exploring.
+### Motivation
+![Uploading image.png…]()
 
 <!---
 ErickGichuki/ErickGichuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
