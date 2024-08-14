@@ -3,8 +3,10 @@
 - Python
 - Js
 - React
+- Next.js
 - Flask
 - Tailwind CSS
+- Django
 
 ### Motivation
 <img src='img/motivation.png'>
