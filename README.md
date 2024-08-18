@@ -27,8 +27,6 @@
 <div align="center">
   <img src="img/motivation.png" alt="Motivation Image">
 </div>
-
-<a href="http://www.github.com/ErickGichuki"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErickGichuki&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!---
 ErickGichuki/ErickGichuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
