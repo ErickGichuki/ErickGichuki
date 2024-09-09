@@ -37,7 +37,7 @@
   </a>
 </div>
 
-### Motivation
+<h2 align="center">Motivation</h2>
 <div align="center">
   <img src="img/motivation.png" alt="Motivation Image">
 </div>
