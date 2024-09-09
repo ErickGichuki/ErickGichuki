@@ -1,5 +1,5 @@
-## Erick Gichuki
-<h2>I'm a Software Developer with a good experience in tech, always eager to learn new languages.</h2> 
+<h1>Erick Gichuki</h1>
+<h2>I'm a Software Developer always eager to learn new languages.</h2> 
 <p align="left">
   <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -18,8 +18,7 @@
   </div>
 </p>
 
-
-### My GitHub Stats
+<h2>My GitHub Stats</h2>
 <div style="margin-bottom: 30px; margin-top: 40px; padding-top: 20px;" align="center">
   <a href="http://www.github.com/ErickGichuki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickGichuki&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
