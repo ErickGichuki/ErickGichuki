@@ -31,7 +31,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; border: none;">
+      <td colspan="2" style="text-align: center; border: none;">
         <a href="http://www.github.com/ErickGichuki">
           <img src="https://github-readme-stats.vercel.app/api?username=ErickGichuki&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ErickGichuki's GitHub stats" />
         </a>
@@ -47,7 +47,7 @@
   </table>
 </div>
 
-<h2>A Glimpse into a Standard Work Day</h2>
+<h2 align="center">A Glimpse into a Standard Work Day</h2>
 <div align="center">
   <pre>
 Python       5hr 30mins ███████████████████░░░░░░░░░░░   60.00 %
