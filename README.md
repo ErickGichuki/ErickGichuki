@@ -34,7 +34,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGichuki&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="300" />
   </a>
 </div>
+## Snapshot of a Typical Work Day
+</div>
 
+```
+Python         6 hrs    ███████████████████░░░░░░░░░░░   60.00 %
+JavaScript       1 hr     ████▒░░░░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Scripting   60 mins         ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Linux        60 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░    11.00 %
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    7.00 %
+```
+
+
+<div align="center">
 <h2 align="center">Motivation</h2>
 <div align="center">
   <img src="img/motivation.png" alt="Motivation Image">
