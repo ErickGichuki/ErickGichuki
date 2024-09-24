@@ -49,16 +49,15 @@
   </table>
 </div>
 
-<h2 align="center">A Glimpse into a Standard Work Day</h2>
-<div align="center">
-  <pre>
+<h2>A Glimpse into a Standard Work Day</h2>
+
+```
 Python       5hr 30mins ███████████████████░░░░░░░░░░░   60.00 %
 JavaScript   1hr 30mins ████▒░░░░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 Scripting    60 mins    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 Linux        60 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░░░░░░    11.00 %
 JSON         30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    7.00 %
-  </pre>
-</div>
+```
 
 <div align="center">
 <h2 align="center">Motivation</h2>
