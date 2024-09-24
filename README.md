@@ -20,8 +20,8 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-<div align="center">
-  <table style="margin: 40px auto; width: 80%; border-collapse: collapse;">
+<div align="center" style="margin: 40px auto; width: 80%;">
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
       <td style="text-align: center; border: none;">
         <a href="http://www.github.com/ErickGichuki">
@@ -30,8 +30,13 @@
         <p style="color: white;">Contribution Streak</p>
       </td>
     </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table style="margin: 40px auto; width: 80%; border-collapse: collapse;">
     <tr>
-      <td colspan="2" style="text-align: center; border: none;">
+      <td style="text-align: center; border: none;">
         <a href="http://www.github.com/ErickGichuki">
           <img src="https://github-readme-stats.vercel.app/api?username=ErickGichuki&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ErickGichuki's GitHub stats" />
         </a>
