@@ -19,8 +19,6 @@
 </p>
 
 <h2 align="center">My GitHub Stats</h2>
-## My Coding Activity
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ErickGichuki&theme=dark&layout=compact)
 
 <div align="center" style="margin: 40px auto; width: 80%;">
   <table style="border-collapse: collapse; width: 100%;">
