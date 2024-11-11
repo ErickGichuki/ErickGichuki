@@ -1,5 +1,5 @@
 <h1>Erick Gichuki</h1>
-<h3>I'm a Software Developer well versed in frontend and backend technologies, always eager to learn new languages.</h3> 
+<h3>I'm a Software Developer well versed in frontend and backend technologies as well as DevOps.</h3> 
 <p align="left">
   <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
